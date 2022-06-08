@@ -1,5 +1,5 @@
 ---
 title: "Georgia Scientific Computing Symposium"
-excerpt: "Me with some members of the Emory REU finally meeting up. 1<br/><img src='/images/EmoryREUPicutre.JPG'>"
+excerpt: "Finally meeting up with friends from the Emory REU. <br/><img src='/images/EmoryREUPicutre.JPG'>"
 collection: portfolio
 ---
