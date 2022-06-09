@@ -2,7 +2,7 @@
 title: "Alternating Minimization for Computed Tomography with Unknown Geometry Parameters"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Devising an algorithm for Computed Tomography with unknown view angles and distance from the x-ray source to the object'
+excerpt: 'Devising an algorithm for Computed Tomography with unknown view angles and distance from the x-ray source to the object.'
 date: 2022-04-01'
 venue: 'SIURO'
 paperurl: #'[https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S144163.pdf?ver=2022-03-30-111244-377](https://doi.org/10.1137/21S1441638)'
