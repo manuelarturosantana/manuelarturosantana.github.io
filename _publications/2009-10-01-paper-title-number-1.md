@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Numerical  Analysis  of  the  1-D  Parabolic  Optimal Transport Problem"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-03-21
+venue: 'SIURO'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Brauer A,  Krawick M, and  Santana M. (2021). &quot;Numerical  Analysis  of  the  1-D  Parabolic  Optimal Transport Problem.&quot; <i>SIAM SIURO</i>. Vol 14:150-166.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Numerical methods for the optimal transport problem is an active area of research. Recent work of Kitagawa and Abedin shows that the solution of a time-dependent equation converges exponentially fast as time goes to inﬁnity to the solution of the optimal transport problem. This suggests a fast numerical algorithm for computing optimal maps; we investigate such an algorithm here in the 1-dimensional case. Speciﬁcally, we use a ﬁnite-diﬀerence scheme to solve the time-dependent optimal transport problem and carry out an error analysis of the scheme. A collection of numerical examples is also presented and discussed.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.siam.org/Portals/0/Publications/SIURO/Vol14/S136715PDF.pdf?ver=2021-03-22-130924-857)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Brauer A,  Krawick M, and  Santana M. (2021). "Numerical  Analysis  of  the  1-D  Parabolic  Optimal Transport Problem." <i>SIAM SIURO</i>. Vol 14:150-166.
