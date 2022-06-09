@@ -26,12 +26,19 @@ Skills
 ======
 * Python
   * Numpy
+  * Pandas
   * Scikit learn
   * Tensorflow 2 with Keras API
+* Matlab
+  * Optimization Toolbox
+  * Paralellization Toolbox
+  * Image Processing Toolbox
 * C/C++
   * MPI
   * OpenMP
   * CUDA
+* Git
+* Latex
 
 Publications
 ======
@@ -51,6 +58,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+* NSF Graduate Research Fellowship Program Fellow - April 2022
+* Goldwater Scholar - March 2021
+* Undergraduate Researcher of the Year - College of Science, Utah State University - 2021
+
+  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Utah State Science Council – Undergraduate Research VP - August 2021  – May 2022
+  * Promoted undergraduate research on campus by organizing two research presentation competitions, and an REU application workshop night.
+* College of Science Peer Mentorship Program - Mentor August 2021 – May 2022
+  * Met weekly with a freshman student to offer help with knowing what classes to take, developing good study habits, and obtaining a research position.
+
