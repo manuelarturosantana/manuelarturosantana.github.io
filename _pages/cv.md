@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is just highlights, you can find my full CV [here](files/Santana_CV.docx.pdf)
+
 Education
 ======
 * B.S. in Computational Mathematics, Utah State University, 2022
