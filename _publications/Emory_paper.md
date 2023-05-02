@@ -1,5 +1,5 @@
 ---
-title: "Alternating Minimization for Computed Tomography with Unknown Geometry Parameters"
+title: "Alternating Minimization for Computed Tomography with Unknown Geometry Parameters*"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Devising an algorithm for Computed Tomography with unknown view angles and distance from the x-ray source to the object.'
