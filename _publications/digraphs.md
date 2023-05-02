@@ -3,8 +3,8 @@ title: "Cordiality of Digraphs"
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Study of cordial labeling of directed graphs'
-date: 2021-03-21
-venue: 'SIURO'
+date: 2022-12-13
+venue: 'Journal of Algebra Combinatorics Discrete Structures and Applications'
 paperurl: #'[https://jacodesmath.com/index.php/jacodesmath/article/view/195](https://jacodesmath.com/index.php/jacodesmath/article/view/195)'
 citation: 'Beasley L, Santana M, Mousley J, and Brown D. (2022). &quot; Cordiality of Digraphs &quot; <i>Journal of Algebra Combinatorics Discrete Structures and Applications</i>. Vol 10:1.'
 ---
