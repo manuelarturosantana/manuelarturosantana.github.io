@@ -20,7 +20,7 @@ Work experience
 ======
 * Summer 2022: DOE SULI Internship
   * National Renewable Energy Laboratory (NREL)
-  * Duties included: 
+  * Duties included: Tried to use transformer models to simulate time series data related to battery modeling.
   * Supervisor: Paul Grasper
 
   
@@ -48,17 +48,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+  #<ul>{% for post in site.talks %}
+   # {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+ # <ul>{% for post in site.teaching %}
+  #  {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
 Awards
 ======
