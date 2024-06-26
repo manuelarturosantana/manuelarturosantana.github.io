@@ -9,12 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 04/02/2023).
+This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 06/26/2024).
 
 Education
 ======
 * B.S. in Computational Mathematics, Utah State University, 2022
 * Ph.D in Applied and Computational Mathematics, California Institute of Technology, 2027 (expected)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
@@ -28,25 +34,14 @@ Skills
 ======
 * Python
   * Numpy
-  * Pandas
-  * Scikit learn
-  * Tensorflow 2 with Keras API
+  * Pytorch
 * Matlab
   * Optimization Toolbox
   * Paralellization Toolbox
   * Image Processing Toolbox
 * C/C++
-  * MPI
-  * OpenMP
-  * CUDA
 * Git
 * Latex
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Awards
 ======
