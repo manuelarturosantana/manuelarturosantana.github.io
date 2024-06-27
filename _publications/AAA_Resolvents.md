@@ -16,3 +16,4 @@ value $k$ is sought for which $F(k)w=0$ for some nonzero $w\in\mathbb{C}^n$. For
 is given by an expression of the form $u^∗F^{-1}(k)v$, where $u,v\in\mathbb{C}^n$ are fixed random vectors. A variety of numerical results are presented for both scattering resonances and other NEPs, demonstrating the accuracy of the method even for high frequency states.
 
 [Download paper here](https://doi.org/10.48550/arXiv.2405.19582)
+
