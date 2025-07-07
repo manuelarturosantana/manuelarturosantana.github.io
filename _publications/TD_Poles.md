@@ -5,8 +5,7 @@ collection: publications
 excerpt: 'Rational approximation + frequency-time hybrid methods = effecient and accurate evaulation of time domain scattering by trapping obstacles '
 date: 2024-06-27
 venue: 'Preprint'
-paperurl: #'[
-https://doi.org/10.48550/arXiv.2505.06189](https://doi.org/10.48550/arXiv.2505.06189)'
+paperurl: #'[https://doi.org/10.48550/arXiv.2505.06189](https://doi.org/10.48550/arXiv.2505.06189)'
 citation: 'O. P. Bruno, M. A. Santana. &quot; Efficient time-domain scattering synthesis via frequency-domain singularity subtraction &quot; <i> arXiv:2505.06189 </i>.'
 ---
 
