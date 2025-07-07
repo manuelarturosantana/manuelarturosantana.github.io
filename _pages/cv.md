@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 06/26/2024).
+This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 07/07/2025).
 
 Education
 ======
