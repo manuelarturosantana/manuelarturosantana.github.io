@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, I'm Manuel Santana (pronounced *Man-well*—not *[Manual](https://youtu.be/XxZGYjU1PRc?si=qR4RiDRTO0uN1L7m)* or *Man-u-well* 😄). You can call me Mani!  
 
-My name is Manuel Santana (pronounced Man-well, not Manual, or Man-u-well). Feel free to call me Mani! I am a PhD student at the California Insititute of Technology 
-in the Applied and Computational Mathematics program currently under the advisement of [Professor Oscar Bruno](https://eas.caltech.edu/people/obruno). I am interested in broadly in numerical analysis and computational science, and specifically in numerical methods for wave scattering problems, rational approximation, and nonlinear eigenvalue problems. Thanks for coming, have an xkcd comic.
+I'm a PhD student in the Applied and Computational Mathematics program at the California Institute of Technology, where I’m fortunate to be advised by [Professor Oscar Bruno](https://eas.caltech.edu/people/obruno).  
+
+My research interests lie broadly in numerical analysis and computational science, with a particular focus on numerical methods for wave scattering problems, rational approximation, and nonlinear eigenvalue problems.  
+
+So far, my PhD work has centered on combining boundary integral equations with rational approximation to efficiently compute Laplace eigenvalues. I've also been applying these methods to tackle time-domain scattering problems.  
 
 ![Cat](https://imgs.xkcd.com/comics/fourier.jpg)
 
