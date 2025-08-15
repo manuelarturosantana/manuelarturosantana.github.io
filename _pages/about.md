@@ -15,6 +15,8 @@ My research interests lie broadly in numerical analysis and computational scienc
 
 So far, my PhD work has centered on combining boundary integral equations with rational approximation to efficiently compute Laplace eigenvalues. I've also been applying these methods to tackle time-domain scattering problems.  
 
+Thanks for coming, have an xkcd comic!
+
 ![Cat](https://imgs.xkcd.com/comics/fourier.jpg)
 
 
