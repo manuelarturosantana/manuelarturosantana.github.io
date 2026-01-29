@@ -1,5 +1,5 @@
 ---
-title: "I discover a I am closely related to the namesame of the Woodbury formula"
+title: "I discover a I am closely related to the namesame of the Woodbury matrix identity"
 excerpt: "Turns out he is my father-in-law's second cousin"
 collection: portfolio
 ---
