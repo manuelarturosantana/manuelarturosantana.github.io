@@ -1,7 +1,7 @@
 ---
-title: # NSF GRFP
-excerpt: #
-# collection: portfolio
+title: " I won a NSF GRFP!"
+excerpt:
+collection: portfolio
 ---
 
 # I won a NSF GRFP!
