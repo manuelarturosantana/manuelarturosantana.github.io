@@ -6,7 +6,7 @@ excerpt: 'We take a rational approach to the nonlinear eigenvalue problem'
 date: 2024-06-27
 venue: 'Preprint'
 paperurl: #'[https://doi.org/10.48550/arXiv.2405.19582](https://doi.org/10.48550/arXiv.2405.19582)'
-citation: 'O. P. Bruno, M. A. Santana, L. N. Trefethen (2024). &quot; Evaluation of Resonances via AAA Rational Approximation of Randomly Scalarized Boundary Integral Resolvents &quot; <i>	arXiv:2405.19582 </i>.'
+citation: 'O. P. Bruno, M. A. Santana, and L. N. Trefethen (2026). &quot;Evaluation of Resonances: Adaptivity and AAA Rational Approximation of Randomly Scalarized Boundary Integral Resolvents&quot;. <i>SIAM Journal on Scientific Computing</i>, 48(3), A1260–A1283. DOI: 10.1137/24M1690680.'
 ---
 
 Abstract: This paper presents a novel algorithm, based on use of rational approximants of randomly scalarized boundary integral resolvents, for the evaluation of acoustic and electromagnetic resonances in open and closed cavities;
