@@ -19,10 +19,12 @@ Education
 Publications
 ======
   <ul>
-  {% for post in site.publications %}
+  {% assign pubs = site.publications | sort: "year" | reverse %}
+  {% for post in pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
+
 Work experience
 ======
 * Summer 2022: DOE SULI Internship
