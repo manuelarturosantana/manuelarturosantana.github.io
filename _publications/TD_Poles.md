@@ -6,7 +6,7 @@ excerpt: 'Rational approximation + frequency-time hybrid methods = efficient and
 date: 2025-06-27
 venue: 'Preprint'
 paperurl: #'[https://doi.org/10.48550/arXiv.2505.06189](https://doi.org/10.48550/arXiv.2505.06189)'
-citation: 'O. P. Bruno, M. A. Santana. &quot; Efficient time-domain scattering synthesis via frequency-domain singularity subtraction &quot; <i> arXiv:2505.06189 </i>.'
+citation: 'O. P. Bruno and M. A. Santana (2026). &quot;Efficient Time-Domain Scattering Synthesis via Frequency-Domain Singularity Subtraction&quot;. <i>Journal of Computational Physics</i>, 115078. DOI: 10.1016/j.jcp.2026.115078.'
 ---
 
 Abstract: Fourier-transform-based methods enable accurate, dispersion-free simulations of time-domain scattering problems by evaluating
