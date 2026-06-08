@@ -18,10 +18,11 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+  {% endfor %}
+</ul>
 Work experience
 ======
 * Summer 2022: DOE SULI Internship
