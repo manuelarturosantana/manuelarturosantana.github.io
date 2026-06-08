@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 07/07/2025).
+This is just highlights, you can find my full CV [here](../files/Santana_CV.docx.pdf) (updated 06/08/2026).
 
 Education
 ======
@@ -28,20 +28,6 @@ Work experience
   * National Renewable Energy Laboratory (NREL)
   * Duties included: Tried to use transformer models to simulate time series data related to battery modeling.
   * Supervisor: Paul Grasper
-
-  
-Skills
-======
-* Python
-  * Numpy
-  * Pytorch
-* Matlab
-  * Optimization Toolbox
-  * Paralellization Toolbox
-  * Image Processing Toolbox
-* C/C++
-* Git
-* Latex
   
 Awards
 ======
