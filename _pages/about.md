@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Manuel Santana (pronounced *Man-well*—not *[Manual](https://youtu.be/AdtHPZUkKWs?si=jOMAET0IxxBJcebn&t=88)* or *Man-u-well* 😄). You can call me Mani!  
+Hi, I'm Manuel Santana (pronounced *Man-well*—not *[Manual](https://youtu.be/AdtHPZUkKWs?si=jOMAET0IxxBJcebn&t=88)* or *Man-u-well* 😄). You can call me Mani! (also occasionally spelled Manny. Its a nickname, both are fine)  
 
 I'm a PhD student in the Applied and Computational Mathematics program at the California Institute of Technology, where I’m fortunate to be advised by [Professor Oscar Bruno](https://eas.caltech.edu/people/obruno).  
 
