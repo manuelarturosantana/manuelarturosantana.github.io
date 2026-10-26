@@ -3,8 +3,8 @@ title: "Evaluation of Resonances via AAA Rational Approximation of Randomly Scal
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We take a rational approach to the nonlinear eigenvalue problem'
-date: 2024-06-27
-venue: 'Preprint'
+date: 2026-05-01
+venue: 'SIAM Journal on Scientific Computing'
 paperurl: #'[https://doi.org/10.48550/arXiv.2405.19582](https://doi.org/10.48550/arXiv.2405.19582)'
 citation: 'O. P. Bruno, M. A. Santana, and L. N. Trefethen (2026). &quot;Evaluation of Resonances: Adaptivity and AAA Rational Approximation of Randomly Scalarized Boundary Integral Resolvents&quot;. <i>SIAM Journal on Scientific Computing</i>, 48(3), A1260–A1283. DOI: 10.1137/24M1690680.'
 ---

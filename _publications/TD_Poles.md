@@ -3,8 +3,8 @@ title: "Efficient Time-domain Scattering Synthesis via Frequency-domain Singular
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Rational approximation + frequency-time hybrid methods = efficient and accurate evaluation of time domain scattering by trapping obstacles'
-date: 2025-06-27
-venue: 'Preprint'
+date: 2026-06-01
+venue: 'Journal of Computational Physics'
 paperurl: #'[https://doi.org/10.48550/arXiv.2505.06189](https://doi.org/10.48550/arXiv.2505.06189)'
 citation: 'O. P. Bruno and M. A. Santana (2026). &quot;Efficient Time-Domain Scattering Synthesis via Frequency-Domain Singularity Subtraction&quot;. <i>Journal of Computational Physics</i>, 115078. DOI: 10.1016/j.jcp.2026.115078.'
 ---
